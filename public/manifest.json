@@ -1,0 +1,18 @@
+{
+  "name": "Campus Signal Tracer — R.V.R. & J.C. College of Engineering",
+  "short_name": "CampusSignal",
+  "description": "5G Massive MIMO Radiometry & 3D Cartographic Navigation System for RVRJC Campus",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
